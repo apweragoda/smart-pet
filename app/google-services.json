@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "559795867070",
+    "project_id": "smart-pet-iot",
+    "storage_bucket": "smart-pet-iot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559795867070:android:0f0dc5f68e62ea8b98bdef",
+        "android_client_info": {
+          "package_name": "com.main.smartpet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "559795867070-779uioa57atguji62jm7ujjli5k8fdu4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAE89swQhhC-BlcRauRGzXTi9NY6UVFwQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "559795867070-779uioa57atguji62jm7ujjli5k8fdu4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559795867070:android:8cca30063d1a07e398bdef",
+        "android_client_info": {
+          "package_name": "com.smart_pet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "559795867070-779uioa57atguji62jm7ujjli5k8fdu4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAE89swQhhC-BlcRauRGzXTi9NY6UVFwQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "559795867070-779uioa57atguji62jm7ujjli5k8fdu4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559795867070:android:63b818de3521b82c98bdef",
+        "android_client_info": {
+          "package_name": "com.smartpet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "559795867070-779uioa57atguji62jm7ujjli5k8fdu4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAE89swQhhC-BlcRauRGzXTi9NY6UVFwQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "559795867070-779uioa57atguji62jm7ujjli5k8fdu4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
